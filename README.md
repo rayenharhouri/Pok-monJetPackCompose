@@ -20,10 +20,6 @@ The app consumes the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data and 
 - Dependency injection with Dagger - Hilt
 - Navigation handling with AndroidX Navigation Compose
 
-##Demo
-
-![Alt Text](https://drive.google.com/uc?export=download&id=1h8Jibyi4fIfA4lT1n5qYl8Q3_KWtpgBv)
-
 ## Dependencies
 
 - AndroidX Core: 1.9.0
